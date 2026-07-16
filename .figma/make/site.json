@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your professional work and skills with a personalized portfolio website designed to highlight your achievements and attract potential clients or employers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
